@@ -1,0 +1,10 @@
+name: Pets Owners View
+description: Custom view for Pets Owners Form
+package: Custom Modules
+
+type: module
+core: 8.x
+
+dependencies:
+  - pets_owners_form
+  - pets_owners_storage

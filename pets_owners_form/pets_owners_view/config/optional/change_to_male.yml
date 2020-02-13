@@ -1,0 +1,8 @@
+# File change_to_male.yml
+langcode: en
+status: true
+id: change_to_male
+label: 'Change to male'
+type:
+plugin: change_to_male
+configuration: {  }
